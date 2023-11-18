@@ -10,4 +10,4 @@
 
 📫 You can reach me @: owamathias@gmail.com
 
-```_"A dream doesn't become reality through magic; it takes sweat, determination, and hard work"_```
+```"A dream doesn't become reality through magic; it takes sweat, determination, and hard work"```
