@@ -4,7 +4,7 @@
 
 🌱 I’m exploring and honing my skills at ALX.
 
-🔭 I'm interested in developing softwares and applications.
+👨🏿‍💻 I'm interested in developing softwares and applications.
 
 ⚡ In my free time, I read books and design User Interface.
 
