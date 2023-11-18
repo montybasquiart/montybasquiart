@@ -6,6 +6,6 @@
 
 👨🏿‍💻 I'm interested in developing softwares and applications.
 
-⚡ In my free time, I read books and design User Interface.
+⚡ In my free time, I read books or design User Interface.
 
 📫 You can reach me @: owamathias@gmail.com
