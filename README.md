@@ -1,4 +1,5 @@
-### It's the little things that count...
+                                                                                    # ```Audentes fortuna iuvat.```
+																																										________________________________
 
 👋🏿 Hi, I'm Mathias Martins. I love to build.
 
@@ -6,7 +7,7 @@
 
 👨🏿‍💻 I'm interested in developing software and applications.
 
-⚡ In my free time, I read books or design User Interfaces.
+⚡ In my spare time, I read books or design User Interfaces.
 
 📫 You can reach me @: owamathias@gmail.com
 
