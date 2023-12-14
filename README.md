@@ -2,7 +2,7 @@
 ________________________________
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3o72Fis3O08ru2BqQ8/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/3o72Fis3O08ru2BqQ8/giphy.gif" width="200"/>
 </div>
 
 
