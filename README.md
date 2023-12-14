@@ -5,6 +5,8 @@ ________________________________
   <img src="https://media.giphy.com/media/3o72Fis3O08ru2BqQ8/giphy.gif" width="200"/>
 </div>
 
+https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
+
 
 👋🏿 Hi, I'm Mathias Martins. I love to build.
 
