@@ -16,7 +16,7 @@ ________________________________
 
 <img src="https://komarev.com/ghpvc/?username=montybasquiart&style=flat-square&color=blue" alt=""/>
 
-
+### 👨🏿‍💻: About me
 
 👋🏿 Hi, I'm Mathias Martins. I love to build.
 
@@ -30,6 +30,7 @@ ________________________________
 
 ```"A dream doesn't become reality through magic; it takes sweat, determination, and hard work"```
 
+### 🧰: My Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -51,7 +52,7 @@ ________________________________
 
 ---
 
-### :fire: My Stats :
+### 🔥: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=montybasquiart&theme=dark&background=000000)](https://git.io/streak-stats)
 
