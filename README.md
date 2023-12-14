@@ -1,6 +1,11 @@
 # ```"Audentes fortuna iuvat"```
 ________________________________
 
+<div id="header" align="center">
+  <img src="https://giphy.com/gifs/vector-handle-codepen-3o72Fis3O08ru2BqQ8" width="100"/>
+</div>
+
+
 👋🏿 Hi, I'm Mathias Martins. I love to build.
 
 🌱 I’m learning and honing my skills at ALX.
