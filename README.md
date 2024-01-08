@@ -20,11 +20,11 @@ ________________________________
 
 👋🏿 Hi, I'm Mathias Martins. I love to build.
 
-🌱 I’m learning and honing my skills at ALX.
+🌱 I’m learning && honing my skills at ALX.
 
-👨🏿‍💻 I'm interested in developing software and applications.
+👨🏿‍💻 I'm interested in developing software && applications.
 
-⚡ In my spare time, I read books or design User Interfaces.
+⚡ In my spare time, I read books || design User Interfaces.
 
 📫 You can reach me @: owamathias@gmail.com
 
