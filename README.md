@@ -18,7 +18,7 @@ ________________________________
 
 ### 👨🏿‍💻: About me
 
-👋🏿 Hi, I'm Mathias Martins. I love to build.
+👋🏿 Hi, I am Mathias Martins && I'm a Software Engineer in the making. I love to build.
 
 🌱 I’m learning && honing my skills at ALX.
 
