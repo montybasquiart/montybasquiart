@@ -26,8 +26,6 @@ ________________________________
 
 ⚡ In my spare time, I read books || design User Interfaces.
 
-📫 You can reach me @: owamathias@gmail.com
-
 ```"A dream doesn't become reality through magic; it takes sweat, determination, and hard work"```
 
 ### 🧰: My Tools
