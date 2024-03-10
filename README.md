@@ -1,4 +1,4 @@
-# ```"Veni Codo Vici"```
+# ```"Veni, Codo, Vici"```
 ________________________________
 
 <div id="header" align="center">
