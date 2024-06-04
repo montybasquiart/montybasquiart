@@ -22,7 +22,7 @@ ________________________________
 
 🌱 I’m learning && honing my skills at ALX.
 
-👨🏿‍💻 I'm interested in developing software && applications.
+👨🏿‍💻 I'm interested in developing Softwares, Applications && Hardwares.
 
 ⚡ In my spare time, I read books || design User Interfaces.
 
