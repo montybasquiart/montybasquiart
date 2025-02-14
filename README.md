@@ -69,7 +69,7 @@ ________________________________
 ---
 
 ### ⚡️: My Contributions:
-[GitHub Streak](https://raw.githubusercontent.com/mcsavvy/mcsavvy/output/snake.svg)
+![GitHub Streak](https://raw.githubusercontent.com/mcsavvy/mcsavvy/output/snake.svg)
 
 ### 🔥: My Stats :
 
