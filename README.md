@@ -63,14 +63,13 @@ ________________________________
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40" /> &nbsp;
   
 </div>
-  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;-->
-  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;-->
+ 
 
 
 ---
 
 ### ⚡️: My Contributions:
-[![GitHub Streak](https://raw.githubusercontent.com/mcsavvy/mcsavvy/output/snake.svg)]
+[GitHub Streak](https://raw.githubusercontent.com/mcsavvy/mcsavvy/output/snake.svg)
 
 ### 🔥: My Stats :
 
